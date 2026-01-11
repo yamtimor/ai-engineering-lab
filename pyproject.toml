@@ -18,5 +18,6 @@ dependencies = [
     "openai>=2.8.1",
     "pandas>=2.3.3",
     "python-dotenv>=1.2.1",
+    "vectorbt>=0.28.2",
     "yfinance>=0.2.66",
 ]
